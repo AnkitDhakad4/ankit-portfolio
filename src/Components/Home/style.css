@@ -1,0 +1,31 @@
+
+#mainContainer
+{
+    /* background: linear-gradient(90deg, rgba(218, 206, 224, 1) 0%, rgba(146, 156, 151, 1) 50%, rgba(230, 197, 209, 1) 100%); */
+    /* background:  #0277bd; */
+    background: #080809;  
+  /* background: -webkit-linear-gradient(to right, #616161, #9bc5c3); 
+  background: linear-gradient(to right, #616161, #9bc5c3);  */
+    /* animation: gradient 15s ease-in infinite ; */
+    /* background-size: 200% 200%; */
+}
+
+@keyframes gradient{
+    0% {
+		background-position: 0% 50%;
+	}
+	25% {
+		background-position: 50% 50%;
+	}
+    50%{
+        background-position: 100% 50%;
+    }
+    75%{
+        background-position:50% 100%;
+    }
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+

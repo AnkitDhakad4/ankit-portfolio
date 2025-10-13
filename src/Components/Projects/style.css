@@ -1,0 +1,15 @@
+.card{
+    animation: slide 0.7s ease-in  ;
+}
+@keyframes slide{
+    from{
+        transform: translateY(60px);
+        opacity: 0.1;
+    }
+    to 
+    {
+        transform: translateY(0px);
+        opacity:1;
+    }
+}
+
