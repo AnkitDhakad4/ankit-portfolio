@@ -23,12 +23,12 @@ function Projects() {
     {
       name: "Calculator",
       photo: Calculator,
-      link: "https://github.com/AnkitDhakad4/Calculator",
+      link: "https://ankitdhakad4.github.io/Calculator/",
     },
     {
       name: "Currency Converter",
       photo: CurrencyConverter,
-      link: "https://github.com/AnkitDhakad4/Currency-Converter",
+      link: "https://currency-converter-gamma-navy.vercel.app/",
     },
    
     

@@ -33,8 +33,9 @@ function Home() {
           I am a{" "}
           <ReactTyped
             strings={[
-              "Full Stack Developer...",
               "Software Developer...",
+              "MERN Developer...",
+              "ML Enthusiast..."
             ]}
             typeSpeed={90}
             backSpeed={60}

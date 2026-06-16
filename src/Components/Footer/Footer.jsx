@@ -15,12 +15,12 @@ function Footer() {
     {
       name: "Instagram",
       image: FaInstagram,
-      link: "https://www.instagram.com/",
+      link: "https://www.instagram.com/ankitdhaker4/",
     },
-    { name: "LinkedIn", image: FaLinkedin, link: "https://www.instagram.com/" },
-    { name: "Github", image: FaGithub, link: "https://www.instagram.com/" },
-    { name: "Facebook", image: FaFacebook, link: "https://www.instagram.com/" },
-    { name: "Twitter", image: FaTwitter, link: "https://www.instagram.com/" },
+    { name: "LinkedIn", image: FaLinkedin, link: "www.linkedin.com/in/ankitdhakad4" },
+    { name: "Github", image: FaGithub, link: "https://github.com/AnkitDhakad4" },
+    { name: "Facebook", image: FaFacebook, link: "https://www.facebook.com/ajay.dhaker.9212" },
+    { name: "Twitter", image: FaTwitter, link: "https://x.com/ankit_dhak16082" },
   ];
 
   return (

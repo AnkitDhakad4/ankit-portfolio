@@ -9,7 +9,7 @@ import {Intro,Home,Footer,Projects,Skill,Contact} from './Components/Index'
 function App() {
   return (
     <>
-      <Navbar />
+      <Navbar />  
 
       <Element name="Home">
         <Protection isAllowed={true}>

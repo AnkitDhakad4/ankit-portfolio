@@ -9,6 +9,7 @@ function Intro() {
         // "linear-gradient(135deg, rgba(199,240,240,1) 0%, rgba(199,183,183,1) 40%, rgba(167,211,235,1) 100%)";
 
     const resume='https://drive.google.com/file/d/1QeLXljxDF873qf4nbaAUX_pmIE1Ypg8N/view?usp=drive_link'
+    let content="I’m a B.Tech student at NIT Delhi specializing in MERN stack development and DSA in C/C++. I enjoy building responsive web apps, solving problems, and exploring Machine Learning. I focus on writing clean, maintainable code and creating smooth, functional user experiences. Along with developing full-stack projects, I’m always curious to learn new technologies, improve my development workflow, and take on challenges that help me grow as a software engineer. My goal is to build scalable products that combine performance, usability, and modern design."
     return (
         <div
             className="text-white h-screen w-full flex-col  pt-13  md:pt-7"
@@ -39,7 +40,7 @@ function Intro() {
                         Developer
                     </p>
                     <p className=" leading-5 my-3   font-NotoSerif   text-[#f2f3fc] md:leading-normal md:text-justify">
-                        I’m a B.Tech student in Electronics and Communication Engineering at NIT Delhi  with a strong interest in web development. Skilled in React, HTML, CSS, JavaScript, and DSA, I’ve built basic projects that showcase my problem-solving abilities. I enjoy creating responsive web pages and debugging code to deliver smooth, functional user experiences.
+                        {content}
                     </p>
                     <p className="mt-2 md:mt-5 font-AlanSans text-[#edeff5]">
                         <span className="text-[#475ea3] font-JosefinSans ">Email:</span>{" "}
